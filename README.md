@@ -1,5 +1,15 @@
 # Head First Design Patterns (2020 2nd Edition)
 
+
+## Forked from
+This project is forked from https://github.com/bethrobson/Head-First-Design-Patterns
+and slightly adapted to be easily runnable in IntelliJ IDEA as a ready to use gradle-project.
+
+The original code on https://github.com/bethrobson/Head-First-Design-Patterns is linked from https://wickedlysmart.com/head-first-design-patterns and is the executable code for the amazing book [Head First Design Patterns: A Brain-Friendly Guide](https://www.amazon.com/dp/0596007124).
+
+
+
+## Original README.md Content
 I have recently updated all the code for Head First Design Patterns for the 2nd edition of the book, released in December, 2020.
 
 Download the code and compile and run from the command line, or load the code into project in Eclipse using Java 8 or higher.
