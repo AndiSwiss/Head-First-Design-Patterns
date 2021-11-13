@@ -8,6 +8,10 @@
 //
 package headfirst.designpatterns.combined.djview;
 
+// TODO: fix before usage:
+/*
+
+
 import javax.servlet.*;
 import javax.servlet.http.*;
 import java.io.*;
@@ -72,6 +76,5 @@ public class DJViewServlet extends HttpServlet {
 		dispatcher.forward(request, response);
 
 	}
-
-
 }
+*/

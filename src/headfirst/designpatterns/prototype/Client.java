@@ -1,5 +1,7 @@
 package headfirst.designpatterns.prototype;
 
+// TODO: fix code (currently not compilable)
+/*
 public class Client {
 	public static void main(String[] args) {
 		Prototype p1 = new ConcretePrototype1();
@@ -23,3 +25,4 @@ public class Client {
 		return pCopy;
 	}
 }
+*/

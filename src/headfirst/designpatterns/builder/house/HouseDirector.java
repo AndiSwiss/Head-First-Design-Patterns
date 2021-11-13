@@ -17,10 +17,11 @@ public class HouseDirector {
 		HouseBuilder woodHouseBuilder = new WoodHouseBuilder();
 		House woodHouse = woodHouseBuilder.addWalls().addWindows().addRoof().build();
 		System.out.println(woodHouse);
-		
-		HouseBuilder clayHouseBuilder = new ClayHouseBuilder();
-		House clayHouse = clayHouseBuilder.addWalls().addWindows().addRoof().build();
-		System.out.println(clayHouse);
+
+        // TODO:
+//		HouseBuilder clayHouseBuilder = new ClayHouseBuilder();
+//		House clayHouse = clayHouseBuilder.addWalls().addWindows().addRoof().build();
+//		System.out.println(clayHouse);
 		
 		HouseBuilder gingerbreadHouseBuilder = new GingerbreadHouseBuilder();
 		House gingerbreadHouse = gingerbreadHouseBuilder.addWalls().addWindows().addRoof().build();
